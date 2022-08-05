@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dev-codergautam/cutshort-assignment.github.io/static/css/main.4030dd9f.css",
+    "main.js": "/dev-codergautam/cutshort-assignment.github.io/static/js/main.279a3f4f.js",
+    "static/js/787.c826789d.chunk.js": "/dev-codergautam/cutshort-assignment.github.io/static/js/787.c826789d.chunk.js",
+    "index.html": "/dev-codergautam/cutshort-assignment.github.io/index.html",
+    "main.4030dd9f.css.map": "/dev-codergautam/cutshort-assignment.github.io/static/css/main.4030dd9f.css.map",
+    "main.279a3f4f.js.map": "/dev-codergautam/cutshort-assignment.github.io/static/js/main.279a3f4f.js.map",
+    "787.c826789d.chunk.js.map": "/dev-codergautam/cutshort-assignment.github.io/static/js/787.c826789d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4030dd9f.css",
+    "static/js/main.279a3f4f.js"
+  ]
+}
