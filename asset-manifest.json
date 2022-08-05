@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dev-codergautam.github.io/static/css/main.4030dd9f.css",
-    "main.js": "/dev-codergautam.github.io/static/js/main.5d0a3bee.js",
-    "static/js/787.c826789d.chunk.js": "/dev-codergautam.github.io/static/js/787.c826789d.chunk.js",
-    "index.html": "/dev-codergautam.github.io/index.html",
-    "main.4030dd9f.css.map": "/dev-codergautam.github.io/static/css/main.4030dd9f.css.map",
-    "main.5d0a3bee.js.map": "/dev-codergautam.github.io/static/js/main.5d0a3bee.js.map",
-    "787.c826789d.chunk.js.map": "/dev-codergautam.github.io/static/js/787.c826789d.chunk.js.map"
+    "main.css": "/dev-codergautam.github.io/cutshort-assignment/static/css/main.4030dd9f.css",
+    "main.js": "/dev-codergautam.github.io/cutshort-assignment/static/js/main.f6eedb81.js",
+    "static/js/787.c826789d.chunk.js": "/dev-codergautam.github.io/cutshort-assignment/static/js/787.c826789d.chunk.js",
+    "index.html": "/dev-codergautam.github.io/cutshort-assignment/index.html",
+    "main.4030dd9f.css.map": "/dev-codergautam.github.io/cutshort-assignment/static/css/main.4030dd9f.css.map",
+    "main.f6eedb81.js.map": "/dev-codergautam.github.io/cutshort-assignment/static/js/main.f6eedb81.js.map",
+    "787.c826789d.chunk.js.map": "/dev-codergautam.github.io/cutshort-assignment/static/js/787.c826789d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4030dd9f.css",
-    "static/js/main.5d0a3bee.js"
+    "static/js/main.f6eedb81.js"
   ]
 }
