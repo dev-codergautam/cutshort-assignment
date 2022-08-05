@@ -1,7 +1,7 @@
 {
   "name": "cutshort-assignment",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://github.com/dev-codergautam.github.io/cutshort-assignment",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
